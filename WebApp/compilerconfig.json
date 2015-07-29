@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "Content/css/screen.css",
+    "inputFile": "Content/sass/screen.scss",
+    "minify": {
+      "enabled": true
+    },
+    "includeInProject": true,
+    "sourceMap": false,
+    "options": {}
+  },
+  {
+    "outputFile": "Content/theme/blue/css/blue.css",
+    "inputFile": "Content/theme/blue/sass/blue.scss",
+    "minify": {
+      "enabled": true
+    },
+    "includeInProject": true,
+    "sourceMap": false,
+    "options": {}
+  }
+]
